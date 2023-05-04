@@ -40,6 +40,10 @@ FU.1
 FU.2
 FW.1
 FW.2
+FY.1
+FY.2
+FY.3
+FY.4
 XA
 XAA
 XAB
