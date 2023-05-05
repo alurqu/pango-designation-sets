@@ -22,6 +22,8 @@ FD.1.1
 FD.2
 FD.3
 FE.1
+FE.1.1
+FE.1.2
 FG.1
 FG.2
 FG.3
