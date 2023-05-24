@@ -8,6 +8,7 @@ EG.3
 EG.4
 EG.5
 EG.5.1
+EG.5.2
 EK.1
 EK.2
 EK.2.1
@@ -64,9 +65,12 @@ FU.2
 FW.1
 FW.2
 FY.1
+FY.1.1
 FY.2
 FY.3
+FY.3.1
 FY.4
+FY.4.1
 FZ.1
 FZ.1.1
 FZ.2
@@ -174,6 +178,7 @@ XBB.1.39
 XBB.1.4
 XBB.1.40
 XBB.1.4.1
+XBB.1.41
 XBB.1.5
 XBB.1.5.1
 XBB.1.5.10
