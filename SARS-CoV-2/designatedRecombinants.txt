@@ -9,6 +9,8 @@ EG.4
 EG.5
 EG.5.1
 EG.5.2
+EG.6
+EG.6.1
 EK.1
 EK.2
 EK.2.1
@@ -60,6 +62,10 @@ FL.7
 FL.8
 FL.9
 FP.1
+FP.2
+FP.2.1
+FP.3
+FP.4
 FT.1
 FU.1
 FU.2
