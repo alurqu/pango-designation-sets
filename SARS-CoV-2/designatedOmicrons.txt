@@ -893,6 +893,7 @@ DV.6
 DV.6.1
 DV.6.2
 DV.7
+DV.7.1
 DV.8
 DW.1
 DY.1
@@ -1098,6 +1099,8 @@ GS.1
 GT.1
 GU.1
 GV.1
+GW.1
+GW.2
 XD
 XE
 XF

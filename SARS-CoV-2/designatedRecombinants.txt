@@ -127,6 +127,8 @@ GS.1
 GT.1
 GU.1
 GV.1
+GW.1
+GW.2
 XA
 XAA
 XAB
