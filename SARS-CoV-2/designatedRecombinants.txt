@@ -116,6 +116,7 @@ GG.1
 GH.1
 GJ.1
 GJ.1.1
+GJ.1.2
 GJ.2
 GK.1
 GL.1
@@ -129,6 +130,8 @@ GU.1
 GV.1
 GW.1
 GW.2
+GY.1
+GY.2
 XA
 XAA
 XAB
