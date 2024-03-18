@@ -660,6 +660,7 @@ KN.1
 KN.1.1
 KT.1
 KT.1.1
+KT.1.2
 XA
 XAA
 XAB
