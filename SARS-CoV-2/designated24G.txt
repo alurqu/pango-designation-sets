@@ -16,10 +16,6 @@ KP.2.3.8
 KP.2.3.9
 MW.1
 NG.1
-NH.1
-NH.2
-NH.3
-NH.4
 NK.1
 NM.1
 NM.2
