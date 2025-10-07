@@ -25,6 +25,3 @@ BA.4.7
 BA.4.8
 CS.1
 DC.1
-XAJ
-XCS
-XDC
