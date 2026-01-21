@@ -20,3 +20,4 @@ XGA.2
 XGA.3
 XGG
 XGH
+XGS
