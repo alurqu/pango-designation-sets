@@ -14,6 +14,9 @@ RF.2
 RF.3
 RF.4
 RF.5
+RF.5.1
+RF.5.2
+RF.5.3
 XGA
 XGA.1
 XGA.2
