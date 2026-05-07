@@ -4737,6 +4737,7 @@ RS.2
 RS.3
 RS.4
 RS.5
+RS.6
 RT.1
 RT.2
 RU.1
@@ -4781,6 +4782,7 @@ SQ.2
 SQ.3
 SR.1
 SS.1
+SS.2
 ST.1
 SU.1
 SV.1
