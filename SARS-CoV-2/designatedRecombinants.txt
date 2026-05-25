@@ -985,6 +985,7 @@ SD.1.1
 SE.1
 SE.2
 SE.2.1
+SE.2.1.1
 SF.1
 SF.1.1
 SG.1
@@ -1001,6 +1002,7 @@ SV.2
 SV.2.1
 SW.1
 SW.2
+SY.1
 XA
 XAA
 XAB
