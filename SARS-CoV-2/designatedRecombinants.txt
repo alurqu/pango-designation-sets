@@ -934,6 +934,7 @@ RB.2
 RC.1
 RC.10
 RC.11
+RC.12
 RC.2
 RC.2.1
 RC.3
@@ -968,6 +969,8 @@ RV.1.1
 RV.1.2
 RV.1.3
 RV.1.4
+RV.2
+RV.2.1
 RW.1
 RW.1.1
 RY.1
@@ -1003,6 +1006,7 @@ SV.2.1
 SW.1
 SW.2
 SY.1
+SZ.1
 XA
 XAA
 XAB
