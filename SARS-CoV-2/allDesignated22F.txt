@@ -906,6 +906,8 @@ SV.2
 SV.2.1
 SY.1
 SZ.1
+SZ.2
+SZ.3
 XBB
 XBB.1
 XBB.1.1
