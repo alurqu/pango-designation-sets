@@ -25,3 +25,4 @@ XGA.4
 XGG
 XGH
 XGS
+XHB
