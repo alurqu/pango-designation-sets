@@ -255,11 +255,15 @@ SH.1
 SV.1
 SV.1.1
 SV.1.2
+SV.1.2.1
 SV.2
 SV.2.1
+SV.2.2
 SV.3
 SV.4
 SV.4.1
+SV.4.2
+SV.4.3
 SY.1
 SZ.1
 SZ.2
@@ -267,6 +271,7 @@ SZ.3
 SZ.3.1
 SZ.4
 TD.1
+TE.1
 XDV.1
 XDV.1.1
 XDV.1.10
