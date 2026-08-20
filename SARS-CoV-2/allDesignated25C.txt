@@ -90,6 +90,8 @@ TA.1
 TB.1
 TB.2
 TC.1
+TG.1
+TH.1
 XFG
 XFG.1
 XFG.10

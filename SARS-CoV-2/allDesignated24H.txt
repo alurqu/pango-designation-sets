@@ -248,6 +248,8 @@ TA.1
 TB.1
 TB.2
 TC.1
+TG.1
+TH.1
 XER
 XFC
 XFC.1

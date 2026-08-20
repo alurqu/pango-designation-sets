@@ -237,6 +237,8 @@ TA.1
 TB.1
 TB.2
 TC.1
+TG.1
+TH.1
 XFC
 XFC.1
 XFC.1.1
