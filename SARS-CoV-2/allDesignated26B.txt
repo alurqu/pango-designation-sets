@@ -25,3 +25,4 @@ SD.1.1
 XFG.3.4.1
 XGT
 XGZ
+XHD
